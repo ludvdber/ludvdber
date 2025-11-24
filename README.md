@@ -4,8 +4,6 @@
 
 🎓 **Bachelor in Application Development** | 💻 **Full-Stack Developer** | 🇧🇪 **Belgium**
 
-[![GitHub followers](https://img.shields.io/github/followers/ludvdber?style=social)](https://github.com/ludvdber)
-
 </div>
 
 ---

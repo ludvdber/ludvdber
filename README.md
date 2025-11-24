@@ -70,6 +70,16 @@ I create and maintain modpacks for games like Lethal Company and R.E.P.O, focusi
 - [**Lethal Reloaded**](https://thunderstore.io/c/lethal-company/p/ASTeam/LethalReloaded/) - 21K+ downloads
 - [**Reposition Protocol**](https://thunderstore.io/c/repo/p/ASTeam/RepositionProtocol/) - 8K+ downloads
 
+## 📚 Currently Learning
+
+- 🌱 React.js for frontend development
+- 🐳 Docker & containerization
+
+## 🌍 Languages
+
+- 🇫🇷 French (Native)
+- 🇬🇧 English (B1)
+
 ## 🎯 Interests
 
 - 🌌 Space & planetary science

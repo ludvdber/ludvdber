@@ -2,14 +2,19 @@
 
 <div align="center">
 
-🎓 **Computer Science Student** | 🔬 **Scientific Computing Enthusiast**
+🎓 **Bachelor in Application Development** | 💻 **Full-Stack Developer** | 🇧🇪 **Belgium**
 
-[![Location](https://img.shields.io/badge/📍-Belgium-blue)](https://github.com/ludvdber)
 [![GitHub followers](https://img.shields.io/github/followers/ludvdber?style=social)](https://github.com/ludvdber)
 
 </div>
 
 ---
+
+## 🎓 About Me
+
+I'm a developer graduating from **ISFCE Brussels** with a Bachelor's degree in Application Development. My training covers everything from web development to networking and database management.
+
+I also completed an internship at the **Royal Belgian Institute for Space Aeronomy (BIRA-IASB)**, where I worked on atmospheric data processing and scientific visualization tools.
 
 ## 🛠️ Tech Stack
 
@@ -17,53 +22,66 @@
 
 **Languages**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Frameworks & Libraries**
 
-**Tools & Platforms**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**IDEs & Tools**
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Databases**
+
+![Firebird](https://img.shields.io/badge/Firebird-F37626?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Systems & Infrastructure**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ParaView](https://img.shields.io/badge/ParaView-00599C?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### [gem-mars-rpn2netcdf](https://github.com/ludvdber/gem-mars-rpn2netcdf)
+### 🔬 [gem-mars-rpn2netcdf](https://github.com/ludvdber/gem-mars-rpn2netcdf)
+CLI tools for converting GEM-Mars atmospheric model outputs to CF-compliant NetCDF-4 format. Built during my internship at IASB.
 
-CLI tools for converting **GEM-Mars atmospheric model** outputs from RPN/FSTD format to CF-compliant NetCDF-4, with vertical interpolation and diurnal mean cycle computation.
+`Python` `xarray` `NetCDF` `Scientific Computing`
 
-- 🔄 Batch processing of atmospheric data across multiple directories
-- 📊 28 variables including temperature, pressure, wind components, and trace gases
-- ⚡ Optimized with Numba JIT compilation
-- 🌍 CF-1.10 compliant for scientific interoperability
+### 🎮 Modpacks (30K+ downloads)
+I create and maintain modpacks for games like Lethal Company and R.E.P.O, focusing on performance optimization and quality curated content.
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ludovic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ludvdber&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ludvdber&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+- [**Lethal Reloaded**](https://thunderstore.io/c/lethal-company/p/ASTeam/LethalReloaded/) - 21K+ downloads
+- [**Reposition Protocol**](https://thunderstore.io/c/repo/p/ASTeam/RepositionProtocol/) - 8K+ downloads
 
 ## 🎯 Interests
 
-Beyond coding, I'm passionate about:
-
-- 🌌 Space exploration & planetary science
+- 🌌 Space & planetary science
 - ♟️ Chess
-- 🎌 Japanese culture & anime
+- 🎌 Japanese culture
 - 💪 Fitness
+- 🍨 Milkshakes
 
 ---
 
 <div align="center">
 
-*"The universe is under no obligation to make sense to you."* — Neil deGrasse Tyson
+📫 **Open to opportunities** — Feel free to reach out!
 
 </div>

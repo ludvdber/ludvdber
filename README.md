@@ -73,6 +73,12 @@ CLI tools for converting GEM-Mars atmospheric model outputs to CF-compliant NetC
 
 `Python` `xarray` `Numba` `NetCDF` `Scientific Computing`
 
+### 📰 [ActuScope](https://github.com/ludvdber/ActuScope)
+News website with PHP MVC architecture, featuring dual MPA/SPA rendering modes with AJAX. Includes user authentication, favorites system, and advanced search. Built with [@ChaimaaBEI](https://github.com/ChaimaaBEI).
+
+`PHP` `MySQL` `JavaScript` `jQuery` `Bootstrap` `MVC`
+
+
 ### 🖥️ Personal Infrastructure *(since 2016)*
 Proxmox homelab hosting websites, private cloud, and game servers (up to 50 concurrent players). Full Linux administration with Nginx reverse proxy, Let's Encrypt, and Cloudflare DNS.
 

@@ -112,7 +112,7 @@ Performance-focused modpacks for Lethal Company and R.E.P.O.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ludvdber&theme=tokyonight)](https://git.io/streak-stats)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ludvdber&theme=dracula)]
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ludvdber&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file)
 
 **💼 Open to junior developer opportunities in Belgium or remote**
 

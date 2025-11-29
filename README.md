@@ -108,6 +108,10 @@ Performance-focused modpacks for Lethal Company and R.E.P.O.
 
 <div align="center">
 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ludvdber&theme=tokyonight)](https://git.io/streak-stats)
+
 **💼 Open to junior developer opportunities in Belgium or remote**
 
 </div>

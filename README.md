@@ -2,24 +2,26 @@
 
 <div align="center">
 
-🎓 **Final-year Bachelor in Application Development** | 💻 **Full-Stack Developer** | 🇧🇪 **Belgium**
+💻 **Full-Stack Developer** | 🛠️ **Self-Hoster** | 🇧🇪 **Belgium**
 
 </div>
 
 ---
 
-## 🎓 About Me
+## 👤 About Me
 
-I'm a final-year developer at **ISFCE Brussels**, completing a Bachelor's in Application Development. I also hold a **PC & Network Technician certification** (IFAPME, with distinction), where my final project involved designing a secure network for a streaming company.
+I'm a full-stack developer from Belgium with a Bachelor's in Application Development (ISFCE) and a PC & Network Technician certification (IFAPME, with distinction).
 
-I've been self-hosting my own infrastructure since 2016 and have helped 500+ people through a tech support Discord community over 8 years.
+I've been self-hosting my own infrastructure since 2016 — starting from scratch and building it up step by step. I also ran a tech support Discord community for 8+ years, helping 500+ people along the way.
 
-I recently completed an internship at the **Royal Belgian Institute for Space Aeronomy (BIRA-IASB)**, working on Mars atmospheric data processing tools.
+I had the chance to do an internship at the Royal Belgian Institute for Space Aeronomy (BIRA-IASB), building Mars atmospheric data processing tools in Python.
+
+When I'm not coding, I'm probably modding games — my modpacks have 37K+ downloads on Thunderstore.
 
 
 ### Highlights
 
-| 🖥️ Self-hosting since 2016 | 🎮 30K+ downloads | 💬 500+ people helped | 🎓 IFAPME distinction |
+| 🖥️ Self-hosting since 2016 | 🎮 37K+ downloads | 💬 500+ people helped | 🎓 IFAPME distinction |
 |:---:|:---:|:---:|:---:|
 | Proxmox, Nginx, Cloudflare | Modpacks on Thunderstore | 8+ years of IT support | Secure network project |
 
@@ -66,7 +68,7 @@ I recently completed an internship at the **Royal Belgian Institute for Space Ae
 
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🔬 [gem-mars-rpn2netcdf](https://github.com/ludvdber/gem-mars-rpn2netcdf)
 CLI tools for converting GEM-Mars atmospheric model outputs to CF-compliant NetCDF-4 format. Built during my internship at BIRA-IASB.
@@ -78,22 +80,25 @@ News website with PHP MVC architecture, featuring dual MPA/SPA rendering modes w
 
 `PHP` `MySQL` `JavaScript` `jQuery` `Bootstrap` `MVC`
 
+### 🧙 [AccioLauncher](https://github.com/ludvdber/AccioLauncher)
+Desktop launcher for Harry Potter PC games. Built with PyQt6, featuring game catalog management, automatic downloads, and a dark-themed UI. *Work in progress.*
+
+`Python` `PyQt6` `httpx` `py7zr`
 
 ### 🖥️ Personal Infrastructure *(since 2016)*
 Proxmox homelab hosting websites, private cloud, and game servers (up to 50 concurrent players). Full Linux administration with Nginx reverse proxy, Let's Encrypt, and Cloudflare DNS.
 
 `Proxmox` `Linux` `Nginx` `Cloudflare` `Self-hosting`
 
-### 🎮 Modpacks — 30K+ downloads
+### 🎮 Modpacks — 37K+ downloads
 Performance-focused modpacks for Lethal Company and R.E.P.O.
 
-- [**Lethal Reloaded**](https://thunderstore.io/c/lethal-company/p/ASTeam/LethalReloaded/) — 21K+ downloads
-- [**Reposition Protocol**](https://thunderstore.io/c/repo/p/ASTeam/RepositionProtocol/) — 8K+ downloads
+- [**Lethal Reloaded**](https://thunderstore.io/c/lethal-company/p/ASTeam/LethalReloaded/) — 28.6K+ downloads
+- [**Reposition Protocol**](https://thunderstore.io/c/repo/p/ASTeam/RepositionProtocol/) — 8.4K+ downloads
 
-## 📚 Currently Learning
+## 🌱 Currently Exploring
 
-- 🌱 React.js for frontend development
-- 🐳 Docker & containerization
+- ⚛️ React.js for frontend development
 
 ## 🌍 Languages
 

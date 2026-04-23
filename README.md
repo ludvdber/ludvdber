@@ -2,7 +2,7 @@
 
 <div align="center">
 
-💻 **Full-Stack Developer** | 🛠️ **Self-Hoster** | 🇧🇪 **Belgium**
+**Full-Stack Developer** | **Self-Hoster** | **Belgium**
 
 </div>
 
@@ -10,18 +10,18 @@
 
 ## 👤 About Me
 
-I'm a full-stack developer from Belgium with a Bachelor's in Application Development (ISFCE) and a PC & Network Technician certification (IFAPME, with distinction).
+I'm a full-stack developer from Belgium with a Bachelor's in Application Development and a PC & Network Technician certification.
 
 I've been self-hosting my own infrastructure since 2016 — starting from scratch and building it up step by step. I also ran a tech support Discord community for 8+ years, helping 500+ people along the way.
 
 I had the chance to do an internship at the Royal Belgian Institute for Space Aeronomy (BIRA-IASB), building Mars atmospheric data processing tools in Python.
 
-When I'm not coding, I'm probably modding games — my modpacks have 37K+ downloads on Thunderstore.
+When I'm not coding, I'm probably modding games.
 
 
 ### Highlights
 
-| 🖥️ Self-hosting since 2016 | 🎮 37K+ downloads | 💬 500+ people helped | 🎓 IFAPME distinction |
+| 🖥️ Self-hosting since 2016 | 🎮 40K+ downloads | 💬 500+ people helped | 🎓 IFAPME distinction |
 |:---:|:---:|:---:|:---:|
 | Proxmox, Nginx, Cloudflare | Modpacks on Thunderstore | 8+ years of IT support | Secure network project |
 

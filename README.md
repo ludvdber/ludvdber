@@ -1,14 +1,11 @@
-# Hey, I'm Ludovic 👋
-**Full-Stack Developer | Self-Hoster | Belgium**
-
-I love building serious tools just as much as tinkering with game mods and managing my own infrastructure.
+Hi, I'm a Full-Stack Developer from Belgium. I love building serious tools just as much as tinkering with game mods and managing my own infrastructure.
 
 - 🖥️ **Self-Hosting:** Running my own Proxmox homelab since 2016 (Linux admin, Nginx, Cloudflare, game servers).
 - 🚀 **Science & Data:** Built Mars atmospheric data processing tools in Python during my internship at the Royal Belgian Institute for Space Aeronomy (BIRA-IASB).
 - 💬 **Community:** Managed an IT support Discord for 8+ years, helping 500+ people troubleshoot their systems.
 - 🎮 **Modding:** Creator of performance-focused modpacks with tens of thousands of downloads.
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 <div align="center">
 
@@ -30,7 +27,7 @@ I love building serious tools just as much as tinkering with game mods and manag
 
 </div>
 
-## 💻 Software & Web Projects
+## 💻 Projects
 
 ### 📚 [Notarium](https://github.com/ludvdber/Notarium)
 A document hub created for students at ISFCE, allowing them to easily access and manage educational resources.
